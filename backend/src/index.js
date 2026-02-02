@@ -77,8 +77,8 @@ if(process.env.NODE_ENV === "production") {
 // cron jobs are used to automatically delete the temp folder every 1hr, 10mins watever
 const tempDir = path.join(process.cwd(), "tmp")
 cron.schedule("0 * * * *", () => {
-    if (fstat.existsSync(tempDir)) {
-        fstat.readdir(tempDir, (err,files) => {
+    if (fs.existsSync(tempDir)) {
+        fs.readdir(tempDir, (err,files) => {
             if (err) {
                 console.log("error", err);
                 return;
