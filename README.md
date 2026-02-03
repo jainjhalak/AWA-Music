@@ -1,1 +1,2 @@
- AWA is a music platform allowing users to showcase their music taste to other users while also chatting with them. Awa is alot user freindly and secure. The site is live on https://awa-music.onrender.com. Since I have deployed it on render's free tier the site automatically inactivates after sometime and takes a while to load.
+ AWA is a music platform allowing users to showcase their music taste to other users while also chatting with them. Awa is similar to spotify but better as it has built in chatbox and users can checkout other user's activity.
+ The site is live on https://awa-music.onrender.com. Since I have deployed it on render's free tier the site automatically inactivates after sometime and takes a while to load.
