@@ -1,0 +1,1 @@
+ AWA is a music platform allowing users to showcase their music taste to other users while also chatting with them. Awa is alot user freindly and secure. The site is live on https://awa-music.onrender.com. Since I have deployed it on render's free tier the site automatically inactivates after sometime. Please let me know in case you want to check it out. Thanks!
